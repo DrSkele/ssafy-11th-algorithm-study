@@ -1,7 +1,7 @@
 # ssafy-11th-algorithm-study
 
 # 👨🏻‍💻Algorithm_Study🔥
-> SSAFY 11기 알고리즘 정권뽀개기 - 1조
+> SSAFY 11기 알고리즘 정권뽀개기 - 1조 알곰알곰
 
 ![image](https://github.com/todayis-sunny/Algorithm_Study/assets/77258780/08536876-e1c9-408e-a0ae-d348341b45f2)
 
