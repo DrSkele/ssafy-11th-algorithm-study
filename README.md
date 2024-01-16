@@ -27,13 +27,6 @@
 | 01  | 순열/조합   | 백준10974<br/>백준1722<br/>백준1339 | 모든 순열<br/>순열의 순서<br/>단어 수학 | S3<br/>G5<br/>G4 | [링크](https://www.acmicpc.net/problem/10974)<br/>[링크](https://www.acmicpc.net/problem/1722)<br/>[링크](https://www.acmicpc.net/problem/1339)  |
 -->
 
-## 🔍 참여 방법
-1. 이 저장소를 `fork` 한다.
-2. 생성된 저장소에 `Github ID`로 폴더를 생성한다.
-3. 알고리즘 풀이 후 원본 저장소에 `PR`를 보낸다.
-
-<br>
-
 ## 📁 Repository 폴더 구조
 ```
 {Github ID}/{week}/{알고리즘 분류}/{플랫폼_문제번호.java}
