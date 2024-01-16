@@ -29,10 +29,10 @@
 
 ## 📁 Repository 폴더 구조
 ```
-{Github ID}/{week}/{알고리즘 분류}/{플랫폼_문제번호.java}
+{Github ID}/{week}/{알고리즘 분류}/{플랫폼_문제번호_문제제목.java}
 ```
 
-- 💡 예시: `pooya98/week1/완전탐색/BOJ_1107.java`
+- 💡 예시: `pooya98/week1/완전탐색/BOJ_1107_리모컨.java`
 
 <br>
 
